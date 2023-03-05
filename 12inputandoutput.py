@@ -1,0 +1,6 @@
+# marks = float(input("enter your marks"))
+# print(marks)
+print("my","name","is","amit")
+print("my","name","is","amit", sep = "abc")
+print("my","name","is","amit /r", sep = "abc", end ="\n")
+print("vaccum")
